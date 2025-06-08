@@ -1536,7 +1536,7 @@ EsBuild,1
 escape,21
 escapes,2
 escaping,1
-eslint,65
+eslint,66
 ESLint,3
 eslint config,2
 eslint plugin,1
@@ -1546,7 +1546,7 @@ eslint-disable-line,1
 eslint-disable-next-line,1
 eslint-enable,1
 eslint-env,1
-eslint-plugin,28
+eslint-plugin,29
 eslint-prettier,1
 eslint-test,1
 eslintconfig,9
@@ -1659,7 +1659,7 @@ fallback,2
 false,1
 fantasy-land,4
 fast,20
-fast refresh,1
+fast refresh,2
 fast-clone,2
 fast-copy,4
 fast-deep-clone,4
@@ -2930,7 +2930,7 @@ mobilegrade,1
 mobservable,2
 mobx,2
 mocha,30
-mock,25
+mock,26
 mockAjax,1
 mocking,5
 mockJSON,1
@@ -3458,7 +3458,7 @@ pie,1
 pigna,1
 pin,1
 piña,1
-pinia,1
+pinia,2
 pino,1
 pipe,7
 pipeline,4
@@ -3759,7 +3759,7 @@ RC4,1
 rdbms,2
 rds,1
 re,1
-react,363
+react,364
 React,10
 react animation,2
 react components,1
@@ -3796,7 +3796,7 @@ react-particles.js,20
 react-popper,1
 react-property,1
 react-redux,1
-react-refresh,1
+react-refresh,2
 react-router,1
 react-router-dom,1
 react-slider,1
@@ -4435,7 +4435,7 @@ STL,3
 stop,1
 storage,10
 storagegateway,1
-store,10
+store,11
 storybook,3
 Storybook,1
 storybook-addons,1
@@ -4702,12 +4702,12 @@ test-runner,1
 TestBed,1
 testcontainers,1
 tester,2
-testing,100
+testing,101
 Testing,6
 testing-library,2
 testops,1
 testrunner,1
-tests,7
+tests,8
 tex,1
 text,44
 text processing,1
@@ -5139,7 +5139,7 @@ vsdx,1
 vt100,2
 vtree,1
 vtt,1
-vue,73
+vue,74
 Vue,1
 vue 3,2
 vue 3.x,2
@@ -5157,7 +5157,7 @@ vue3,12
 vueComponent,1
 vuejs,21
 vuepress,9
-vuex,1
+vuex,2
 w3c,16
 waapi,4
 waf,2

@@ -735,6 +735,7 @@ eslint-plugin-prettier
 eslint-plugin-promise
 eslint-plugin-react
 eslint-plugin-react-hooks
+eslint-plugin-react-refresh
 eslint-plugin-regexp
 eslint-plugin-security
 eslint-plugin-sonarjs
@@ -2476,6 +2477,7 @@ testcafe
 testcontainers
 testdouble
 testem
+testing
 testing-library
 text-hex
 text-table
